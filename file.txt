@@ -1,0 +1,3 @@
+This is my new class in jenkins file
+jenkins ius a open source 
+jenkins is java programme 
